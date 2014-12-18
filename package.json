@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-for-ember",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "dependencies": {
     "highlight.js": "~7.3.0"
   },
@@ -32,5 +32,24 @@
   },
   "engines": {
     "node": ">=0.8.0"
-  }
+  },
+  "description": "While this project is currently used in many production applications, we have decided to discontinue the development for the development of our new rich components available here: http://indexiatech.github.io/ember-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linstula/bootstrap-for-ember.git"
+  },
+  "keywords": [
+    "ember",
+    "bootstrap"
+  ],
+  "author": "Lin Reid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linstula/bootstrap-for-ember/issues"
+  },
+  "homepage": "https://github.com/linstula/bootstrap-for-ember"
 }
